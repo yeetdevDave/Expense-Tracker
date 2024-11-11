@@ -1,6 +1,6 @@
 # Expense-Tracker
 
-Expense Tracker is a simple expense tracker application to manage your finances.
+Expense Tracker is a project (https://roadmap.sh/projects/expense-tracker) to build a simple expense tracker application to manage your finances.
 
 # How to install
 
